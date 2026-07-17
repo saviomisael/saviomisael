@@ -6,6 +6,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-e26d5a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savio-misael/)](https://www.linkedin.com/in/savio-misael/)
 
-(Java | Jakarta EE | Docker | Kubernetes)
+( Java | Jakarta EE | Docker | Kubernetes )
 
 - Programmer at UNICAMP
